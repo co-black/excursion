@@ -1,6 +1,6 @@
-*{
+body{
   background-color: black;
-
+  font-family: verdana;
 
 }
 
@@ -12,7 +12,7 @@
   text-align: center;
 }
 
-#download1, #download2{
+#download1, #download2, .download1, .download2 {
   color: Aquamarine;
   font-size: 16px;
   text-align: center;
@@ -47,6 +47,9 @@
 
 #soon{
   text-align: center;
+  color: white;
+  font-size: 40px;
+
 }
 
 #copyright{
