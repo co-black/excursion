@@ -1,0 +1,55 @@
+*{
+  background-color: black;
+
+
+}
+
+#discover{
+  font-family: verdana;
+  font-weight: normal;
+  font-size: 22px;
+  color: white;
+  text-align: center;
+}
+
+#download1, #download2{
+  color: Aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
+
+#video{
+  text-align: center;
+}
+
+#guide{
+  font-family: verdana;
+  color: white;
+  font-weight: 300;
+  font-size: 20px;
+  text-align: center;
+}
+
+#discription{
+  font-family: verdana;
+  color: gray;
+  font-size: 20px;
+  text-align: center;
+}
+
+#camp{
+  text-align: center;
+}
+
+#phone{
+  text-align: center;
+}
+
+#soon{
+  text-align: center;
+}
+
+#copyright{
+  text-align: right;
+  color: gray;
+}
